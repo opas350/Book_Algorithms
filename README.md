@@ -1,4 +1,4 @@
-# Algorithms (Robert Sedgewick  
+# Algorithms (Robert Sedgewick)  
 
 # Windows  
 javac -cp .;algs4.jar MyProgram.java  
